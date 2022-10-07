@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-We were given data to analyze of students in multiple schools. Using Python and Pandas I was able to collect the student data into a DataFrame and prepare a cleaned version of the Dataframe. I summarized key pieces of the data, while drilling down into the data to analyze specific subsets. From there I was able to compare and contrast the data through grouping and aggregation functions, in which I was able to analyze the final results.
+We were given data to analyze of students in multiple school districts. Using Python and Pandas I was able to collect the student data into a DataFrame and prepare a cleaned version of the Dataframe. I summarized key pieces of the data, while drilling down into the data to analyze specific subsets. From there I was able to compare and contrast the data through grouping and aggregation functions, in which I was able to analyze the final results.
 
 ## Resources
 Software: Jupyter Notebook 6.4.12, Python 3.9.13, Pandas 1.4.4
