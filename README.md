@@ -6,6 +6,7 @@ We were given data to analyze of students in multiple schools. Using Python and 
 
 ## Resources
 Software: Jupyter Notebook 6.4.12, Python 3.9.13, Pandas 1.4.4
+
 Data Source: new_full_student_data.csv
 
 ## Summary
